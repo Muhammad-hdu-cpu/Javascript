@@ -1,5 +1,5 @@
-let firstName = "HuXn";
-let lastName = "WebDev";
+let firstName = "Muhammad";
+let lastName = "Mubarak";
 let fullName = firstName + lastName;
 // console.log(fullName);
 
@@ -28,3 +28,12 @@ let fullName = firstName + lastName;
 
 //8. TRIM
 // console.log(fullName.trim());
+
+// --------------------------------------- Using Backtics ----------------------------------
+
+let poem = `       We are not 
+                   loser
+                       we are warrior        `;
+console.log(poem);
+
+// By using backtics we can write how we want 

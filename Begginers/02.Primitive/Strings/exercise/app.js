@@ -8,3 +8,11 @@
 // 7. Now Log your Message.
 
 //---------------------------------------Answer-------------------------------------------------
+let favActorFirstName = "Leonardo";
+let favActorLastName = " DiCaprio";
+let fullName = favActorFirstName + favActorLastName;
+let uppercase = fullName.toLocaleUpperCase();
+let message = `My favorite actor ${fullName.toLocaleUpperCase()} and He acted as a leading role in Titanic Movie`;
+message += ` His best film is Titanic.`;
+
+console.log(message);
