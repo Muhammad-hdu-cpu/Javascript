@@ -15,5 +15,3 @@ console.log(age); //20
 //Naming a variables 
 // There are some reserve key we can't use them . can't use space,Number as a first character. 
 // We can't use (-) sign instead of use (_).
-
-
