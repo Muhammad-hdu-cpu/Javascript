@@ -9,3 +9,18 @@
 // 9. Check (firstFavNumb is not equal to secondFavNumb) using strict non-equality operator.
 // 10. Check is (firstFavNumb is not equal to secondFavNumb) using loose non-equality operator.
 
+let firstFavNumber = 14;
+let secondFavNumber = 31;
+console.log(firstFavNumber>secondFavNumber);
+console.log(firstFavNumber<secondFavNumber);
+console.log(firstFavNumber>= secondFavNumber);
+console.log(firstFavNumber<=secondFavNumber);
+console.log(firstFavNumber===secondFavNumber);
+console.log(firstFavNumber!==secondFavNumber);
+console.log(firstFavNumber==secondFavNumber);
+console.log(firstFavNumber!=secondFavNumber);
+
+
+
+
+
