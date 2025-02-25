@@ -7,8 +7,8 @@
 // 7. Check (firstFavNum Mod secondFavNumber)
 // 8. Check the power of (firstFavNum)
 
-let firstFavNum = 21;
-let secondFavNum = 7;
+let firstFavNum = 14;
+let secondFavNum = 31;
 
 console.log(firstFavNum + secondFavNum);
 console.log(firstFavNum - secondFavNum);
