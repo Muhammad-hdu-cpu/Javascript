@@ -1,3 +1,4 @@
+//---------------------------------------Exercise-------------------------------------------
 // 1. Create Variable name (firstFavNum) & store your favorite number.
 // 2. Create Variable name (secondFavNum) & store your second fav number.
 // 3. Add (firstFavNum & secondFavNumber).
@@ -7,6 +8,8 @@
 // 7. Check (firstFavNum Mod secondFavNumber)
 // 8. Check the power of (firstFavNum)
 
+
+//---------------------------------------Answer-------------------------------------------------
 let firstFavNum = 14;
 let secondFavNum = 31;
 
