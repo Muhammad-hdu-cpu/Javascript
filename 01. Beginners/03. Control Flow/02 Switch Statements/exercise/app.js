@@ -19,4 +19,3 @@ switch (fruit) {
   default:
     text = "I have never heard of that fruit";
 }
-console.log(text);
