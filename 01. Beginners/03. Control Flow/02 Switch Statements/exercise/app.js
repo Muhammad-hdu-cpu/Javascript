@@ -4,18 +4,19 @@
 // 4. If case is "Apple" print "How you like them apples?"
 // 5. default "I  have never heard of that fruit."
 
-let fruits = "Banana";
-
-switch (fruits) {
+let fruit = "Banana";
+let text;
+switch (fruit) {
   case "Banana":
-    console.log("Banana is good!");
+    text = "Banana is Good";
     break;
   case "Orange":
-    console.log("I am not a fan of orange.");
+    text = "I am not a fan of Orange";
     break;
   case "Apple":
-    console.log("How you like them apples?");
+    text = "How you like them apples";
     break;
   default:
-    console.log("I have never heard of that fruit...");
+    text = "I have never heard of that fruit";
 }
+console.log(text);
